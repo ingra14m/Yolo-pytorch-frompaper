@@ -2,3 +2,4 @@ __pycache__
 listfile.txt
 data
 .DS_Store
+model/*.pth
